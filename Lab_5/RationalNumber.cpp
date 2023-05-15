@@ -11,7 +11,7 @@ void RationalNumber::decrease(int n) {
 }
 
 double RationalNumber::module() {
-    Numeric::module();
+    return abs(nominator/denominator);
 }
 
 void RationalNumber::reduce() {
