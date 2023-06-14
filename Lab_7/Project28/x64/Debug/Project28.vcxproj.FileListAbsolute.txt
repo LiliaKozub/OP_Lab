@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Project28\Project28\x64\Debug\Project28.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\Project28\Project28\x64\Debug\Project28.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Project28\Project28\x64\Debug\Project28.MyForm.resources
+C:\Users\user\source\repos\Project28\Project28\x64\Debug\Project28.vcxproj.GenerateResource.cache
